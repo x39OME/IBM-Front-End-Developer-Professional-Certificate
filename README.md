@@ -1,6 +1,6 @@
 # IBM-Front-End-Developer-Professional-Certificate
 
-<img src="./logo.avif">
+<img src="./ibm-logo.png">
 
 - This repo contains all of 8 courses in the Coursera Professional Certificate: [IBM Front-End Developer Professional Certificate](https://www.coursera.org/professional-certificates/ibm-frontend-developer)
 
